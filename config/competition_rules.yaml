@@ -1,0 +1,17 @@
+# Kyan February 2026 Trading Competition Rules
+
+competition:
+  name: "Kyan February Alpha"
+  asset_limits:
+    BTC: 1.0
+    ETH: 15.0
+  trade_limit_daily: 20
+  activity_bonus_threshold: 15 # Minimum trades for bonus points
+  leverage_max: 2.0
+  start_date: "2026-02-09"
+  end_date: "2026-02-28"
+
+objectives:
+  - Maximize PnL
+  - Maintain High Activity (Execute 17-20 trades daily)
+  - Portfolio Volatility < 5%
